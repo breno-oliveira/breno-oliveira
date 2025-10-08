@@ -13,7 +13,3 @@
 ![Shopify](https://img.shields.io/badge/-Shopify-96BF48?logo=shopify&logoColor=white)
 
 ---
-
-### 📈 Estatísticas
-![Breno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=breno-oliveira&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=breno-oliveira&layout=compact&theme=radical)
